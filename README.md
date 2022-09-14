@@ -3,7 +3,7 @@
 The files contained in this repository run in the editor of the visual programming language, Bonsai.
 Use these files to generate visual, looming stimuli used in Gonzalez and Fisher et. al. 
 
-### Set up
+## Set Up
 Download Bonsai from [Open Ephys](https://bonsai-rx.org/docs/articles/installation.html)
 
 Upon opening Bonsai, select the "Manage Packages" option and install the following packages:

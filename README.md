@@ -35,5 +35,5 @@ Loom Bonsai Files - Presents 5 repetitions of a variation of the looming stimulu
 - Static Loom: A black circle appears at full expansion on a light gray background and disappears after a fixed time that matches the expansion time of the looming stimulus.
 - Color Inverted Static Loom: A light gray circle appears at full expansion on a black background and disappears after a fixed time that matches the expansion time of the looming stimiulus.
 
-receiveString_sendTTL.ino - Arduino sets pin 12 to HIGH for 10ms upon receptions of a string '\n'.
+receiveString_sendTTL.ino - Arduino sets pin 12 to HIGH for 10ms upon reception of a string '\n'.
 

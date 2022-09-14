@@ -9,5 +9,5 @@ Download Bonsai from [Open Ephys](https://bonsai-rx.org/docs/articles/installati
 Upon opening Bonsai, select the "Manage Packages" option and install the following:
 - Bonsai - Starter Pack
 - BonVision (Found under the "Community Packages" source)
-  
-Download the .txt files from this repository and change the file extension to .bonsai
+ 
+Open and run the files to display visual stimuli to a second monitor.
